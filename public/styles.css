@@ -1,0 +1,21 @@
+.container {
+    background-color: lightcoral;
+    color: slategray;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 4em;
+}
+
+.frog-img {
+    border-radius: 50%;
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+}
